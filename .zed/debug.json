@@ -1,0 +1,12 @@
+[
+    {
+        "label": "Debug current file",
+        "adapter": "JavaScript",
+        "type": "pwa-node",
+        "request": "launch",
+        "program": "$ZED_FILE",
+        "runtimeExecutable": "npx",
+        "runtimeArgs": ["tsx"],
+        "cwd": "$ZED_WORKTREE_ROOT"
+      }
+]
