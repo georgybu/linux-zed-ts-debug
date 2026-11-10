@@ -1,0 +1,18 @@
+-- console --
+
+
+Downloading from https://github.com/zed-industries/delve-shim-dap/releases/download/v0.0.4/delve-shim-dap-aarch64-apple-darwin.tar.gz...
+Download complete
+Building .
+Type 'dlv help' for list of commands.
+Process 94882 has exited with status 0
+Detaching
+
+
+-- terminal --
+DAP server listening at: 127.0.0.1:63726
+debugserver-@(#)PROGRAM:LLDB  PROJECT:lldb-2103.0.34.103
+ for arm64.
+Got a connection, launched process /Users/georgy/Projects/learn/golang/hello/__debug_bin878661214 (pid = 94882).
+Hello, World!
+Exiting.
